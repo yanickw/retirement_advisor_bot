@@ -18,10 +18,32 @@ AMAZON LEX was chosen as a solution for the Conversational User Interface (CUI).
 
 ![Confirmation_Prompt](./images/Confirmation_Prompt.png)
 
-## AMAZON LEX | Testing
+----------
+
+## AMAZON LEX | Configuration Testing
 Following the confirguration, a first pass of testing was completed to confirm the configuration process was completed succesfully.
 
 https://user-images.githubusercontent.com/35586344/179370792-3e6c1969-1c7f-4d34-b233-2fcb04128f86.mp4
+
+----------
+
+## AMAZON LAMBDA | Lambda Function
+
+The AMAZON LAMBDA function was added to the AMAZON LEX configuration to validates the data some of the user inputs:
+- Age
+- Investment amount
+
+![Confirmation_Prompt](./images/Lambda_initialisation.png)
+
+
+The function also returns investment recommendation which are triggered once the intent is fulfilled.
+
+![Confirmation_Prompt](./images/Fulfillement.png)
+
+----------
+
+## AMAZON LEX | Final Testing
+Following the integration of the lambda function, a final pass of testing was completed to confirm the robot advisor was working as expected.
 
 
 
