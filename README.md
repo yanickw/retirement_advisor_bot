@@ -45,7 +45,7 @@ The function also returns investment recommendation which are triggered once the
 ## AMAZON LEX | Final Testing
 Following the integration of the lambda function, a final pass of testing was completed to confirm the robot advisor was working as expected.
 
-
+https://user-images.githubusercontent.com/35586344/179373121-93f6259f-c2dd-498c-b907-d7a5aa5754be.mp4
 
 ----------
 
