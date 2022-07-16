@@ -21,6 +21,7 @@ AMAZON LEX was chosen as a solution for the Conversational User Interface (CUI).
 ## AMAZON LEX | Testing
 Following the confirguration, a first pass of testing was completed to confirm the configuration process was completed succesfully.
 
+![Confirmation_Prompt](./videos/RobotAdvisor_01.webm)
 
 <video width="300" height="540" controls>
     <source src="./videos/RobotAdvisor_01.webm" type="video/webm">
