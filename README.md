@@ -1,5 +1,5 @@
 # Retirement Advisor Bot
-Used AMAZON WEB SERVICES (AWS) to create a robo advisor that will engage and recommend an investment portfolio for a retirement plan based on a serie of questions.
+Using AMAZON WEB SERVICES (AWS) to create a robo advisor that will engage and recommend an investment portfolio for a retirement plan based on a serie of questions.
 
 ----------
 
