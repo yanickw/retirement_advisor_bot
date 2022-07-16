@@ -23,7 +23,7 @@ Following the confirguration, a first pass of testing was completed to confirm t
 
 
 <video width="300" height="540" controls>
-    <source src="./videos/RobotAdvisor_01.mp4" type="video/mp4">
+    <source src="./videos/RobotAdvisor_01.webm" type="video/webm">
 </video>
 
 
