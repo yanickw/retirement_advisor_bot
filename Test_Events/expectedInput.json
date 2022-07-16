@@ -13,8 +13,8 @@
     "name": "recommendPortfolio",
     "slots": {
       "firstName": "Yanick",
-      "age": "67",
-      "riskLevel": "high",
+      "age": "50",
+      "riskLevel": "medium",
       "investmentAmount": "10000"
     },
     "confirmationStatus": "None"
