@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/35586344/179370792-3e6c1969-1c7f-4d34-
 
 ## AMAZON LAMBDA | Lambda Function
 
-The AMAZON LAMBDA function was added to the AMAZON LEX configuration to validate some of the data the user inputs:
+The AMAZON LAMBDA function was added to the AMAZON LEX configuration to validate some of the user data inputs:
 - Age
 - Investment amount
 
